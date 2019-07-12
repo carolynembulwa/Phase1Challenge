@@ -1,4 +1,4 @@
-package africa.finserve.phase1challenge;
+package mbulwa.carolyne.phase1challenge;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package africa.finserve.phase1challenge;
+package mbulwa.carolyne.phase1challenge;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
